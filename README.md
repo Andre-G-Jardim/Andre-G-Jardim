@@ -86,6 +86,6 @@ My name is André Gonçalves Jardim! I'm a Developer and currently undergraduate
 
 ![Snake animation](https://github.com/meuplow/meuplow/blob/output/github-contribution-grid-snake.svg)
 
-<p><sup>Gif disponível em https://medium.com/@ashusingh19911082/how-to-make-a-snake-that-eats-all-of-your-github-contribution-graph-c3b9919a06fb </sup></p>
+<!--<p><sup>Gif disponível em https://medium.com/@ashusingh19911082/how-to-make-a-snake-that-eats-all-of-your-github-contribution-graph-c3b9919a06fb </sup></p>-->
 
 
