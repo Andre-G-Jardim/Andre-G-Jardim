@@ -70,5 +70,3 @@ My name is André Gonçalves Jardim! I'm a Software Engineer, graduated in Biome
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a> 
 </p>
-
-![Snake animation](https://github.com/meuplow/meuplow/blob/output/github-contribution-grid-snake.svg)
